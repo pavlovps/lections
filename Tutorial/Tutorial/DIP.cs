@@ -14,7 +14,7 @@ public class LowerClass
         _higher = higher;
     }
 
-    public void Do()
+    public void DoBeDo()
     {
         /*
          * Do stuff here
